@@ -1,19 +1,20 @@
 
-👋 Hi, I’m Nancy!
-Welcome to my GitHub! I’m a computer science student with a passion for web development, game design, and machine learning. I love exploring how different disciplines can come together to create meaningful, user-focused solutions.
+👋 Hi, I’m Nancy!  
+Welcome to my GitHub! I’m a computer science student with a passion for web development, game design, and machine learning. I love exploring how different disciplines can
+come together to create meaningful, user-focused solutions.
 
-🌟 About Me 
-🎓 Education: Computer Science Major, Digital Arts Minor at Stony Brook University
+🌟 About Me  
+🎓 Education: Computer Science Major, Digital Arts Minor at Stony Brook University  
 🖥️ Interests: Web Development, UX/UI Design, Game Development, and AI
 
 
-🔧 Skills
-Programming Languages: Python, JavaScript, Java, C, Ocaml
+🔧 Skills  
+Programming Languages: Python, JavaScript, Java, C, Ocaml  
 Tools & Frameworks: React, Git, Figma, Photoshop, Illustrator
 
-What I Love Working On:
-🛠️ Building interactive blogs and websites
-🎨 Designing digital and 3D visuals
+What I Love Working On:  
+🛠️ Building interactive blogs and websites  
+🎨 Designing digital and 3D visuals  
 🤖 Experimenting with machine learning and NLP
 
 📂 Projects I’m Proud Of  

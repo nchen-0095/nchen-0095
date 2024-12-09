@@ -17,10 +17,10 @@ What I Love Working On:
 🤖 Experimenting with machine learning and NLP
 
 📂 Projects I’m Proud Of
-📊 [Logistic Regression Model on Airbnb Dataset]([https://github.com/nchen-0095/My-ML-Model-For-Cornell-BreakThrough-Tech](https://github.com/nchen-0095/logistic-regression-airbnb-model))
+📊 [Logistic Regression Model on Airbnb Dataset](https://github.com/nchen-0095/logistic-regression-airbnb-model)
 Developed a logistic regression model to analyze the Airbnb NYC dataset, predicting property success based on features like location, pricing, and availability. This project helped refine my skills in data preprocessing, model implementation, and evaluation.
 
-📊 [Census Income Dataset: Divorce Prediction]([https://github.com/nchen-0095/My-eCornell-Project](https://github.com/nchen-0095/Divorced-Prediction-Census-Income))
+📊 [Census Income Dataset: Divorce Prediction](https://github.com/nchen-0095/Divorced-Prediction-Census-Income)
 Built a machine learning model using the Census Income dataset to predict whether individuals are divorced. This project focused on classification techniques, including data visualization, feature engineering, and model tuning.
 
 📊 [Verizon ML Project](https://github.com/nchen-0095/Technology-Product-Categorization)

@@ -17,7 +17,7 @@ Tools & Frameworks: React, Git, Figma, Photoshop, Illustrator
 🎨 Designing digital and 3D visuals  
 🤖 Experimenting with machine learning and NLP
 
-## 📂 Projects I’m Proud Of  
+## 📂 Projects that I worked on
 📊 [Logistic Regression Model on Airbnb Dataset](https://github.com/nchen-0095/logistic-regression-airbnb-model)
 Developed a logistic regression model to analyze the Airbnb NYC dataset, predicting property success based on features like location, pricing, and availability. This project helped refine my skills in data preprocessing, model implementation, and evaluation.  
 
